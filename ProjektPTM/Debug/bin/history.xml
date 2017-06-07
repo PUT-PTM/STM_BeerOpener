@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=ProjektPTM.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\ProjektPTM -TC:\CooCox\CoIDE\configuration\ProgramData\ProjektPTM/arm-gcc-link.ld -g">
+      <target file="ProjektPTM.elf" lastModified="15c835179c8">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15c59d976a9"/>
+         <source file="..\obj\main.o" lastModified="15c835176fa"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15c59e01d38"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="15c59e01dc7"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15c59e01e36"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15c59e01e8f"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="15c59e01ef0"/>
+         <source file="..\obj\misc.o" lastModified="15c59e01f86"/>
+         <source file="..\obj\stm32f4xx_rtc.o" lastModified="15c59e0204f"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="15c59e0213d"/>
+      </target>
+   </processor>
+</history>
