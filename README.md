@@ -3,20 +3,18 @@ Naszym projektem był otwieracz do butelek. Chcieliśmy zrealizować prosty otwi
 który po przyłożeniu butelki za pomocą siłownika liniowego podważy kapsel otwierając butelkę.
 
 Opis:
-	Użyty sprzęt: 
-		STM32F4 Discovery,
-		Siłownik liniowy 12V 7kg - 5-przewodowy,
-		Dwukanałowy moduł przekaźników RM5 z izolacją optoelektroniczną 5V 10A/125VAC,
-		Czujnik siły nacisku okrągły 13mm (0,6''),
-		Dodatkowy zasliacz przeznaczony dla siłownika.
+Użyty sprzęt: 
+	STM32F4 Discovery,
+	Siłownik liniowy 12V 7kg - 5-przewodowy,
+	Dwukanałowy moduł przekaźników RM5 z izolacją optoelektroniczną 5V 10A/125VAC,
+	Czujnik siły nacisku okrągły 13mm (0,6''),
+	Dodatkowy zasliacz przeznaczony dla siłownika.
 	
 	Obsługa siłownika i czujnika siły nacisku zostały zrealizowane na STM32
 
 	Wstępny wygląd projektu został zaprojektowany w programie Autodesk Inventor, jednak podczas bardziej
 	praktycznych prób jego wykonania zostaliśmy zmuszeni do zmiany naszysz założeń
 
-	Cel projektu: poszerzenie naszej wiedy o mikrokontrolerach oraz umiejętności pracy z nimi 
-	      i różnymi modułami
 
 Narzędzia: 
 	CooCox CoIDE wersja 1.7.8 http://www.coocox.org/CooCox_CoIDE.htm
